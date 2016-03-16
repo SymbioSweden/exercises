@@ -28,7 +28,7 @@ provide them helpful feedback.
  * Use whatever tool or library you want. (jQuery, Angular, React, etc)
  * Keep the code clean and reviewable.
  * Use whatever tool you'd like to build the scripts and minify them into one file (Webpack, Gulp, Grunt, etc)
- * When you're done, upload it somewhere where it can be viewable by the world and send it to [mailto:carolina.emanuelson@symbio.com](carolina.emanuelson@symbio.com).
+ * When you're done, upload it somewhere where it can be viewable by the world and send it to [carolina.emanuelson@symbio.com](mailto:carolina.emanuelson@symbio.com).
  * Have fun!
 
 ## How?
