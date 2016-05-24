@@ -4,15 +4,15 @@
 
 > Prevent brute force attacks from white walkers using Hodor
 
-## Description
+## Your mission
 
-In this introductory; we want you to build a little extra security around WordPress. We want you to help us prevent brute force attacks from white walkers, should they try to log in to our website **The cave of the three-eyed raven**. 
+In this introductory assignment; we want you to build a little extra security around WordPress. We want you to help us prevent brute force attacks from white walkers, should they try to log in to our website **The cave of the three-eyed raven**. 
 
-To do that, we want to have an extra `text field` of security to the log in form when logging in or registering. This field should simply ask `Are you Hodor?`, upon which we want the user to input text `3 times`. The first input should be `Hold the door` (shouldn't matter if it's uppercase or lowercase), the second time `Hold door` and the third time `Hodor`. When that is validated, the user should be able to login/register. ([The form should look something like this](http://i.imgur.com/WEIoKhf.png))
+To do that, we want to have an extra `text field` of security to the login form when logging in or registering. This field should simply ask `Are you Hodor?`, upon which the user to input text `3 times`. The first input is to be `Hold the door` (shouldn't matter if it's uppercase or lowercase), the second time `Hold door` and the final time `Hodor`. When that is validated, the user is to be able to log in/register. ([The form should look something like this](http://i.imgur.com/WEIoKhf.png))
 
 ## What tools do I got?
 
-To help you get started and to get a grip on how we run things here at King's Landing… I mean, Symbio. We have some step by step setup that could be of use for you.
+To help you get started and to get a grip on how we run things here at King's Landing… I mean, Symbio. We have some step by step setup that could be of use to you.
 
 ### First: *The base*
 
@@ -38,9 +38,27 @@ Go to the WordPress admin and activate your plugin. It should say `"Hodor"`.
 
 At Symbio, we want to treat our codebase with respect and nothing like the little twat Ramsay. Which leads us to `PSR-2` and `PSR-4` that this plugin is based upon. These are some really good `Coding Style Guide`- and `Autoloader`-standards for PHP. So please take some day to read about [PSR-2](http://www.php-fig.org/psr/psr-2/) and [PSR-4](http://www.php-fig.org/psr/psr-4/) before you start stabbing into your code.
 
-### Third: *The JavaScript*
+### Third: *The JavaScript* – Bonus
 
+This is only voluntary – but since we love to stay hungry with the latest technology. We also want you to start writing you Javascript in [ES2015 syntax](https://github.com/DrkSephy/es6-cheatsheet). To do that, we obviously need to use [Babel](https://babeljs.io/). You can go ahead and use only their compiler with `npm` for this purpose. Otherwise, if you want to dig deeper – then you should have a look at [Webpack](https://webpack.github.io/) which let's you bundle your resources.
 
+Either way, you probably want some JavaScript to prevent the user from submitting the form before supplying the necessary data. You should iterate through three text fields, storing those three values within an array and the submit that array in the form.
+
+### Utils
+
+We have created some util files and helpers within this folder to help you forward. "Good to know"-filters and actions.
+
+---
+
+## How about when I'm done?
+
+First of all, this is not a real test. If you have any questions what so ever. Don't hesitate to [contact me](mailto:johnie.hjelm@symbio.com) and I will help you, guide you and answer your questions in the best way possible.
+
+But when you're done, upload it somewhere where it can be viewable by the world and send it to <carolina.emanuelson@symbio.com> or <johnie.hjelm@symbio.com>
+
+*Have fun!*
+
+---
 
 ### Disclaimer
 
