@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/6KzlfYj.jpg" alt="Hodor" style="float: right;">
+<img src="http://i.imgur.com/6KzlfYj.jpg" alt="Hodor" class="blog-search">
 
 # Hold The Door
 
@@ -18,4 +18,4 @@ To do that, we want have an extra `text field` of security to the login form whe
 
 © 2016 Symbio Sweden | Licence [MIT](/LICENCE) | Author <johnie.hjelm@symbio.com>
 
-<img src="http://symbiosweden.eu/app/themes/careers/dist/images/logo_new_dark.svg" alt="Symbio Sweden">
+<img src="http://symbiosweden.eu/app/themes/careers/dist/images/logo_new_dark.svg" alt="Symbio Sweden" width="150px" height="auto">
