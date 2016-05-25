@@ -58,7 +58,7 @@ First of all, this is not a real test. If you have any questions what so ever. D
 
 But when you're done, upload it somewhere where it can be viewable by the world and send it to <carolina.emanuelson@symbio.com> or <johnie.hjelm@symbio.com>
 
-*Have fun!*
+*Valar dohaeris!*
 
 ---
 
