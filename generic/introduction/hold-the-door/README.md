@@ -48,7 +48,7 @@ Either way, you probably want some JavaScript to prevent the user from submittin
 
 We have created some util files and helpers within this folder to help you forward. "Good to know"-filters and actions.
 
-* [Filter and Actions](/filters-and-actions.php)
+* [Filter and Actions](filters-and-actions.php)
 
 ---
 
